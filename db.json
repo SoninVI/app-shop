@@ -1,0 +1,46 @@
+{
+  "products":[
+    {
+      "image": "1.jpg",
+      "name": "Компрессор Urogan 90130",
+      "price": 100,
+      "article": "U90130",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "Компрессор Urogan 90135",
+      "price": 200,
+      "article": "U90135",
+      "available": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "Компрессор Urogan 90140",
+      "price": 550,
+      "article": "U90140",
+      "available": true
+    },
+    {
+      "image": "4.jpg",
+      "name": "Компрессор Urogan 90170",
+      "price": 620,
+      "article": "U90170",
+      "available": true
+    },
+    {
+      "image": "5.jpeg",
+      "name": "Компрессор Urogan 90120",
+      "price": 150,
+      "article": "U90120",
+      "available": true
+    },
+    {
+      "image": "6.jpg",
+      "name": "Компрессор Urogan 90110",
+      "price": 110,
+      "article": "U90110",
+      "available": true
+    }
+  ]
+}
